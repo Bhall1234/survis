@@ -60,7 +60,7 @@
         "month": "mar,",
         "pages": "ase.2270",
         "shorttitle": "The rise of {\\textless}span style",
-        "title": "The rise of {\\textless}span style",
+        "title": "The rise of {ChatGPT} : {Exploring} its potential in medical education",
         "type": "article",
         "url": "https://anatomypubs.onlinelibrary.wiley.com/doi/10.1002/ase.2270",
         "urldate": "2024-05-09",
@@ -110,6 +110,22 @@
         "url": "https://aisel.aisnet.org/siged2018/4",
         "year": "2018"
     },
+    "tlili_what_2023": {
+        "abstract": "Artificial Intelligence (AI) technologies have been progressing constantly and being more visible in different aspects of our lives. One recent phenomenon is ChatGPT, a chatbot with a conversational artificial intelligence interface that was developed by OpenAI. As one of the most advanced artificial intelligence applications, ChatGPT has drawn much public attention across the globe. In this regard, this study examines ChatGPT in education, among early adopters, through a qualitative instrumental case study. Conducted in three stages, the first stage of the study reveals that the public discourse in social media is generally positive and there is enthusiasm regarding its use in educational settings. However, there are also voices who are approaching cautiously using ChatGPT in educational settings. The second stage of the study examines the case of ChatGPT through lenses of educational transformation, response quality, usefulness, personality and emotion, and ethics. In the third and final stage of the study, the investigation of user experiences through ten educational scenarios revealed various issues, including cheating, honesty and truthfulness of ChatGPT, privacy misleading, and manipulation. The findings of this study provide several research directions that should be considered to ensure a safe and responsible adoption of chatbots, specifically ChatGPT, in education.",
+        "author": "Tlili, Ahmed and Shehata, Boulus and Adarkwah, Michael Agyemang and Bozkurt, Aras and Hickey, Daniel T. and Huang, Ronghuai and Agyemang, Brighter",
+        "doi": "10.1186/s40561-023-00237-x",
+        "file": "Full Text:C\\:\\\\Users\\\\benha\\\\Zotero\\\\storage\\\\LUIK8G3H\\\\Tlili et al. - 2023 - What if the Devil Is My Guardian Angel ChatGPT as.pdf:application/pdf;Snapshot:C\\:\\\\Users\\\\benha\\\\Zotero\\\\storage\\\\GQPI3C6F\\\\eric.ed.gov.html:text/html",
+        "journal": "Smart Learning Environments",
+        "keywords": "Artificial Intelligence, Cheating, Computer Interfaces, Computer Mediated Communication, Deception, Educational Change, Educational Technology, Ethics, Man Machine Systems, Personality, Privacy, Technology Uses in Education, Usability",
+        "language": "en",
+        "note": "Publisher: Springer ERIC Number: EJ1369100",
+        "shorttitle": "What if the {Devil} {Is} {My} {Guardian} {Angel}",
+        "title": "What if the {Devil} {Is} {My} {Guardian} {Angel}: {ChatGPT} as a {Case} {Study} of {Using} {Chatbots} in {Education}",
+        "type": "article",
+        "urldate": "2024-05-15",
+        "volume": "10",
+        "year": "2023"
+    },
     "verleger_pilot_2018": {
         "abstract": "As AI software tools become more commonplace, their potential to transform the student experience has greatly increased. By integrating these tools into a course, students can begin to receive real-time, around the clock, instructor moderated support. The potential benefits for students are significant. In addition to increasing their ability to work constructively on their schedule, it has the potential to engage students who might otherwise avoid directly interacting with another person. Before these tools can be meaningfully actualized into a course, work must be done to build a knowledge base about the course.",
         "address": "San Jose, CA, USA",
@@ -126,35 +142,6 @@
         "type": "inproceedings",
         "url": "https://ieeexplore.ieee.org/document/8659282/",
         "urldate": "2024-05-10",
-        "year": "2018"
-    },
-    "weizenbaum_elizacomputer_1966": {
-        "author": "Weizenbaum, Joseph",
-        "doi": "10.1145/365153.365168",
-        "file": "Full Text PDF:C\\:\\\\Users\\\\benha\\\\Zotero\\\\storage\\\\2VUMWQEC\\\\Weizenbaum - 1966 - ELIZA\u2014a computer program for the study of natural .pdf:application/pdf",
-        "issn": "0001-0782",
-        "journal": "Communications of the ACM",
-        "month": "jan,",
-        "number": "1",
-        "pages": "36--45",
-        "title": "{ELIZA}\u2014a computer program for the study of natural language communication between man and machine",
-        "type": "article",
-        "url": "https://dl.acm.org/doi/10.1145/365153.365168",
-        "urldate": "2024-05-09",
-        "volume": "9",
-        "year": "1966"
-    },
-    "winkler_unleashing_2018": {
-        "author": "Winkler, Rainer and S\u00f6llner, Matthias",
-        "doi": "10.5465/AMBPP.2018.15903abstract",
-        "file": "Full Text PDF:C\\:\\\\Users\\\\benha\\\\Zotero\\\\storage\\\\RIUJA9D7\\\\Winkler and S\u00f6llner - 2018 - Unleashing the Potential of Chatbots in Education.pdf:application/pdf",
-        "journal": "Academy of Management Proceedings",
-        "month": "apr,",
-        "pages": "15903",
-        "shorttitle": "Unleashing the {Potential} of {Chatbots} in {Education}",
-        "title": "Unleashing the {Potential} of {Chatbots} in {Education}: {A} {State}-{Of}-{The}-{Art} {Analysis}",
-        "type": "article",
-        "volume": "2018",
         "year": "2018"
     },
     "wu_ai_2024": {
